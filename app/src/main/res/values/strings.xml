@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">myMusicPlayer</string>
+    <string name="play">Play</string>
+    <string name="pause">Pause</string>
+    <string name="rewind"><![CDATA[<<]]></string>
+    
+    <string name="five">Big Shaq - Mans Not Hot</string>
+    <string name="two">Clean Bandit - Rockabye ft. Sean Paul</string>
+    <string name="three">David Guetta - Titanium ft. Sia</string>
+    <string name="four">Diviners - Savannah ft. Philly K</string>
+    <string name="one">Guy Sebastian - Like a Drum</string>
+    <string name="six">Louis Tomilson- Back to You</string>
+
+</resources>
